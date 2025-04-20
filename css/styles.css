@@ -1016,6 +1016,9 @@ line-height: 1.33333;
                     font-weight: 500;
                     font-size: 20px;
                 }
+                .features-list-text{
+                    font-size:400;
+                }
         .team .container{
             width: 1158px;
         }
